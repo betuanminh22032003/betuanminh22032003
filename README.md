@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Be Tuan Minh
 ====================================================================================================================================
 
-Software Engineer
+Senior Software Engineer
 -----------------
 
 I love code!
@@ -9,7 +9,6 @@ I love code!
 * 🌍  I'm based in Viet Nam
 * 🖥️  See my portfolio at [Website](http://google.com)
 * ✉️  You can contact me at [betuanminh22032003@gmail.com](mailto:betuanminh22032003@gmail.com)
-* 🧠  I'm learning CI CD
 
 <a href="https://www.github.com/betuanminh22032003" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/betuanminh22032003?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
