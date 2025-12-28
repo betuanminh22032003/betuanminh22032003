@@ -1,52 +1,217 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Be Tuan Minh
-====================================================================================================================================
+<div align="center">
+  
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Be%20Tuan%20Minh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descSize=18&descAlignY=52"/>
 
-Senior Software Engineer
------------------
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+distributed+systems;5%2B+years+of+professional+experience;Passionate+about+clean+architecture;Open+source+contributor+%26+mentor" alt="Typing SVG" /></a>
 
-I love code!
-
-* 🌍  I'm based in Viet Nam
-* 🖥️  See my portfolio at [Website](http://google.com)
-* ✉️  You can contact me at [betuanminh22032003@gmail.com](mailto:betuanminh22032003@gmail.com)
-
-<a href="https://www.github.com/betuanminh22032003" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/betuanminh22032003?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=betuanminh22032003&style=for-the-badge&color=0891b2&labelColor=1c1917&label=PROFILE+VIEWS"/>
+  <a href="https://www.github.com/betuanminh22032003"><img src="https://img.shields.io/github/followers/betuanminh22032003?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+  <a href="https://www.github.com/betuanminh22032003"><img src="https://img.shields.io/github/stars/betuanminh22032003?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 </p>
 
+</div>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/betuanminh22032003" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+## 👨‍💻 About Me
 
-### Badges
+```yaml
+name: Be Tuan Minh
+location: Vietnam 🇻🇳
+current_role: Senior Software Engineer
+experience: 5+ years
 
-<b>My GitHub Stats</b>
+education:
+  - degree: Bachelor's in Computer Science
+    focus: Software Engineering & AI
 
-<a href="http://www.github.com/betuanminh22032003"><img src="https://github-readme-stats.vercel.app/api?username=betuanminh22032003&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="betuanminh22032003's GitHub stats" /></a>
+expertise:
+  - Full-Stack Development
+  - Cloud Architecture (AWS, GCP)
+  - Microservices & Distributed Systems
+  - Machine Learning & AI Integration
+  - DevOps & CI/CD Pipelines
 
-<a href="http://www.github.com/betuanminh22032003"><img src="https://github-readme-streak-stats.herokuapp.com/?user=betuanminh22032003&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+currently_learning:
+  - System Design at Scale
+  - Kubernetes & Cloud-Native Development
+  - Advanced ML/AI Applications
 
-<a href="http://www.github.com/betuanminh22032003"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=betuanminh22032003&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+hobbies:
+  - Contributing to Open Source
+  - Writing Technical Blogs
+  - Mentoring Junior Developers
+```
 
-<a href="https://github.com/betuanminh22032003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betuanminh22032003&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<b>Top Repositories</b>
+### 🎯 Quick Facts
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+- 🔭 Currently working on **enterprise-scale applications**
+- 🌱 Always exploring **cutting-edge technologies**
+- 👯 Open to collaborate on **innovative projects**
+- 💬 Ask me about **system design, clean architecture**
+- 📫 Reach me: **betuanminh22032003@gmail.com**
+- ⚡ Fun fact: **I debug with coffee ☕**
 
-### Support Me
+</td>
+<td valign="top" width="50%">
 
-<ul style="list-style-type: none; margin: 0;">
+### 🌐 Connect With Me
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/betuanminh22032003"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<p align="center">
+  <a href="mailto:betuanminh22032003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.github.com/betuanminh22032003"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/betuanminh22032003"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="http://google.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/betuanminh22032003"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+</td>
+</tr>
+</table>
 
-</ul>
+---
+
+## 🛠️ Tech Stack & Tools
+
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,java,python,typescript,javascript,bash&theme=dark&perline=6"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,svelte,html,css,tailwind,bootstrap,materialui&theme=dark&perline=8"/>
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Frameworks</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring&theme=dark&perline=6"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,mongodb,redis,aws,gcp,azure&theme=dark&perline=8"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🔧 DevOps & Tools</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,jenkins,vscode,vim,linux,figma&theme=dark&perline=10"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=4"/>
+</p>
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=betuanminh22032003&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&icon_color=0891b2&text_color=c9d1d9&bg_color=0d1117&ring_color=0891b2" alt="Be Tuan Minh's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=betuanminh22032003&layout=compact&hide_border=true&title_color=0891b2&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=betuanminh22032003&theme=transparent&hide_border=true&stroke=0891b2&ring=0891b2&fire=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0891b2&sideLabels=0891b2&dates=6e7681&background=0d1117" alt="Streak Stats"/>
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=betuanminh22032003&bg_color=0d1117&color=c9d1d9&line=0891b2&point=ff6b35&area=true&area_color=0891b2&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=betuanminh22032003&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/betuanminh22032003/betuanminh22032003/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/betuanminh22032003/betuanminh22032003/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/betuanminh22032003/betuanminh22032003/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 💡 A Quote That Inspires Me
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson"/>
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+  <a href="https://open.spotify.com/user/betuanminh22032003">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=0891b2&bar_color_cover=false" alt="Spotify"/>
+  </a>
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+  <p>If you find my work helpful, consider buying me a coffee! ☕</p>
+  <a href="https://www.buymeacoffee.com/betuanminh22032003">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+  <a href="https://www.ko-fi.com/betuanminh22032003">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
+  </a>
+  <a href="https://paypal.me/betuanminh22032003">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<p>
+  <b>Thanks for visiting! 🚀</b><br>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=6E7681&center=true&vCenter=true&width=435&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Be+Tuan+Minh"/>
+
+</div>
