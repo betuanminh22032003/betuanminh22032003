@@ -30,16 +30,18 @@ education:
     focus: Software Engineering & AI
 
 expertise:
-  - Full-Stack Development
-  - Cloud Architecture (AWS, GCP)
+  - Full-Stack Development (NextJS, NestJS)
+  - Cloud Architecture (AWS, GCP, Azure)
   - Microservices & Distributed Systems
-  - Machine Learning & AI Integration
+  - Kubernetes & GitOps (ArgoCD, Helm)
   - DevOps & CI/CD Pipelines
+  - Infrastructure as Code (Terraform)
 
 currently_learning:
   - System Design at Scale
-  - Kubernetes & Cloud-Native Development
-  - Advanced ML/AI Applications
+  - Service Mesh (Istio)
+  - Platform Engineering
+  - AI/LLM Integration
 
 hobbies:
   - Contributing to Open Source
@@ -92,7 +94,7 @@ hobbies:
 <summary><b>🎨 Frontend</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,svelte,html,css,tailwind,bootstrap,materialui&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,html,css,tailwind,bootstrap,materialui&theme=dark&perline=8"/>
 </p>
 </details>
 
@@ -100,7 +102,7 @@ hobbies:
 <summary><b>⚙️ Backend & Frameworks</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,spring&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express,graphql,rabbitmq&theme=dark&perline=6"/>
 </p>
 </details>
 
@@ -116,7 +118,14 @@ hobbies:
 <summary><b>🔧 DevOps & Tools</b></summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,gitlab,jenkins,vscode,vim,linux,figma&theme=dark&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,gitlab,jenkins,terraform,ansible,prometheus&theme=dark&perline=10"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 </details>
 
@@ -150,7 +159,7 @@ hobbies:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=betuanminh22032003&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=betuanminh22032003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -158,11 +167,16 @@ hobbies:
 ## 📈 Contribution Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/betuanminh22032003/betuanminh22032003/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/betuanminh22032003/betuanminh22032003/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/betuanminh22032003/betuanminh22032003/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-contributor-stats.vercel.app/api?username=betuanminh22032003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=betuanminh22032003&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=betuanminh22032003&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=betuanminh22032003&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 
 ---
